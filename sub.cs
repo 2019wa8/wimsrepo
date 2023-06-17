@@ -1,1 +1,4 @@
-This is a new file sub.cs
+public add (int a, int b)
+{
+  int c = a-b;
+}
